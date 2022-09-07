@@ -1,4 +1,4 @@
-# fELLowship 
+# fELLowship - Veronika Potter and Ken Liu
 
 For our CS 228 (HCI) final project, we designed a React based webpage to help ELLs in the US. In middle and high school, English language learners (ELLs, formerly ESLs) are oftentimes isolated (culturally, linguistically, and oftentimes physically) from their native English speaking peers; they need a way to communicate and connect with their native English-speaking peers in order to speak English outside of the classroom and connect with the larger school (and local) community. fELLowship, is just that.
 
